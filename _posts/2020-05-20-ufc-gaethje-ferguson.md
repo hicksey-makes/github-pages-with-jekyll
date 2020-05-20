@@ -1,3 +1,8 @@
+---
+title: "UFC Gaethje v Ferguson"
+date: 2020-05-20
+---
+
 Wow!
 I am finally up and running with github! This is an exciting development. 
 
