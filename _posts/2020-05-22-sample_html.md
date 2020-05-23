@@ -1,6 +1,6 @@
 ---
 title: SAMple githubpages page
-date: 05/22/2020
+date: 2020-05-22
 ---
 
 <html>
