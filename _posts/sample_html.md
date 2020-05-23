@@ -1,3 +1,8 @@
+---
+title: SAMple githubpages page
+date: 05/22/2020
+---
+
 <html>
   <header>
    hicksey kicks it. it usally includes a navigation
